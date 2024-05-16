@@ -1,0 +1,12 @@
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoCafe/MenuRepository_Repository/bin/Debug/net8.0/MenuRepository.Repository.deps.json
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoCafe/MenuRepository_Repository/bin/Debug/net8.0/MenuRepository.Repository.dll
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoCafe/MenuRepository_Repository/bin/Debug/net8.0/MenuRepository.Repository.pdb
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoCafe/MenuRepository_Repository/obj/Debug/net8.0/MenuRepository.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoCafe/MenuRepository_Repository/obj/Debug/net8.0/MenuRepository.Repository.AssemblyInfoInputs.cache
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoCafe/MenuRepository_Repository/obj/Debug/net8.0/MenuRepository.Repository.AssemblyInfo.cs
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoCafe/MenuRepository_Repository/obj/Debug/net8.0/MenuRepository.Repository.csproj.CoreCompileInputs.cache
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoCafe/MenuRepository_Repository/obj/Debug/net8.0/MenuRepository.Repository.dll
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoCafe/MenuRepository_Repository/obj/Debug/net8.0/refint/MenuRepository.Repository.dll
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoCafe/MenuRepository_Repository/obj/Debug/net8.0/MenuRepository.Repository.pdb
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoCafe/MenuRepository_Repository/obj/Debug/net8.0/ref/MenuRepository.Repository.dll
+/Users/samgerry/ElevenFiftyProjects/codingFoundations/assignments/KomodoCafe/MenuRepository_Repository/obj/Debug/net8.0/MenuRepository.Repository.sourcelink.json
